@@ -20,8 +20,7 @@ module.exports = function(config) {
 
 
     // list of files to exclude
-    exclude: [
-    ],
+    exclude: ['karma.conf.js','run_casperjs.js'],
 
 
     // preprocess matching files before serving them to the browser
